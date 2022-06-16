@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.button {
+  background-color: black;
+  border-width: 0px;
+}
+
+.closeButton {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  margin-left: auto;
+}
+
+.thumbNailImg {
+  width: 100%;
+}
